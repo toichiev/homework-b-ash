@@ -29,5 +29,3 @@ usermod -aG dev jenny
 yum install wget tree httpd
 systemctl start httpd
 systemctl enable httpd
-~
-
